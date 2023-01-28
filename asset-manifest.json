@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CryptoZombies/static/css/main.9aed8796.css",
+    "main.js": "/CryptoZombies/static/js/main.0b06939e.js",
+    "static/js/787.aa7c7526.chunk.js": "/CryptoZombies/static/js/787.aa7c7526.chunk.js",
+    "static/media/BG_main_cantainer.png": "/CryptoZombies/static/media/BG_main_cantainer.f844f1d4852e942050b5.png",
+    "static/media/intro_4.png": "/CryptoZombies/static/media/intro_4.1ff2e2fcabb9c0f7ef1c.png",
+    "static/media/CZ_logo_landscape.png": "/CryptoZombies/static/media/CZ_logo_landscape.e1f84ce0d43cd93dab74.png",
+    "static/media/intro_3.png": "/CryptoZombies/static/media/intro_3.26ce8d1ba349325b4cbb.png",
+    "static/media/intro_2.png": "/CryptoZombies/static/media/intro_2.271e6f8c42f893f26542.png",
+    "index.html": "/CryptoZombies/index.html",
+    "main.9aed8796.css.map": "/CryptoZombies/static/css/main.9aed8796.css.map",
+    "main.0b06939e.js.map": "/CryptoZombies/static/js/main.0b06939e.js.map",
+    "787.aa7c7526.chunk.js.map": "/CryptoZombies/static/js/787.aa7c7526.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aed8796.css",
+    "static/js/main.0b06939e.js"
+  ]
+}
